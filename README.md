@@ -3,7 +3,7 @@ This repository contains materials and projects for a comprehensive Full Stack W
 
 Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps
 
-## Project Contain 
+## Project Contains
 - HTML Basics
 - CSS Styling
 - JavaScript Fundamentals
